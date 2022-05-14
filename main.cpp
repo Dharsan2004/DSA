@@ -13,6 +13,7 @@ using namespace std;
 #define toUp(s) ::transform(s.begin(), s.end(), s.begin(), ::toupper)
 #define toLow(s) ::transform(s.begin(), s.end(), s.begin(), ::tolower);
 #define MOD 1000000007
+#define INF 1e18
 #define bits(n) __builtin_popcount(n)
 #define tc() int t; cin>>t; while(t--)
 
